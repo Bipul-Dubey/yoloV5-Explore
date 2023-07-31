@@ -1,9 +1,0 @@
-path : "../train_data"
-
-train : images/train
-
-val : images/val
-
-nc : 3
-
-name : ["Person","Phone","Pen"]
